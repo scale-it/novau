@@ -1,0 +1,18 @@
+# minimum ASA definition (all optional fields omitted)
+NovAu:
+  # 2M for first token
+  # 180M in total expected
+  # We may set grand total to 10B
+  total: 2000000000000000
+  decimals: 9
+  defaultFrozen: true
+  unitName: "NAu"
+  url: "https://novau.ch"
+  # User may get "signature validation failed" from node if shorter hash is used.
+  # metadataHash: "12312442142141241244444411111133"
+  note: "token deployemnt"
+  # manager: "5W72SDTJDPBHN5IYK3IZALRQCZNUMVQZ5LPU4BFSNR6PZACRAZC2CUKZNE"
+  manager: "3FKR3AYBDCVDB4AJWSTHCF7BU4VLKS6E6AL2DN7ICRPMDTOAIR7UNVQ5PM"
+  reserve: "3FKR3AYBDCVDB4AJWSTHCF7BU4VLKS6E6AL2DN7ICRPMDTOAIR7UNVQ5PM"
+  freeze: "3FKR3AYBDCVDB4AJWSTHCF7BU4VLKS6E6AL2DN7ICRPMDTOAIR7UNVQ5PM"
+  clawback: "3FKR3AYBDCVDB4AJWSTHCF7BU4VLKS6E6AL2DN7ICRPMDTOAIR7UNVQ5PM"

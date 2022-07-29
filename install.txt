@@ -1,0 +1,4 @@
+https://developer.algorand.org/docs/run-a-node/setup/install/
+https://algorand-catchpoints.s3.us-east-2.amazonaws.com/channel/mainnet/latest.catchpoint
+
+goal node catchup 22300000#YSD4INHOVQBVMK3EEQXA6DIK4FJTRPR5IU6PRBDUMR3TKAEFD6OQ
